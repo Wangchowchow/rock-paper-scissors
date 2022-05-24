@@ -1,5 +1,5 @@
 # Rock Paper Scissors
-This is a web page of a simple game, namely rock, paper, and scissors.
+A simple rock, paper, and scissors game made into a website.
 ## Created With
 * HTML
 * Javascript
